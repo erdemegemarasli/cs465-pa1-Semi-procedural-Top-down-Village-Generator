@@ -1,7 +1,7 @@
 # cs465-pa1-Semi-procedural-Top-down-Village-Generator
 Live Demo: https://erdemegemarasli.github.io/town.html
 
-Requirements
+# Assignment
 You will design and implement a simple semi-procedural WebGL app that will paint a very simple top-down village. In this program, there will be 5 different entities: terrain, river, houses, trees, and rocks.
 
 Terrain: Terrain should cover the whole scene.
